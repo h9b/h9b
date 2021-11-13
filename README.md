@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Node.js
 - 🎵 I’m like music "Mata - Patointeligencja"
-- 💻 I’m use text editor [<a alt="Atom" href="">]
+- 💻 I’m use text editor (Atom)[https://atom.io]
 
 <br />
 
